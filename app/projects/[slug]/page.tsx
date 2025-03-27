@@ -5,8 +5,9 @@ import { getProjectBySlug } from "@/lib/data"
 import { ArrowLeft, Globe, Github, Calendar } from "lucide-react"
 import "../project-detail.css"
 
-export default function ProjectPage({ params }: { params: { slug: string } }) {
-  const project = getProjectBySlug(params.slug)
+export default async function ProjectPage({ params }: { params: { slug: string } }) {
+  const { slug}  = await params
+  const project = await getProjectBySlug(slug)
 
   if (!project) {
     notFound()
