@@ -107,7 +107,7 @@ export const jobs: Job[] = [
     logo: "/images/logo5.png",
     description: "Led the frontend development team in building modern web applications.",
     longDescription:
-      "As the Senior Frontend Developer at TechCorp Inc., I led a team of 5 developers in building and maintaining the company's flagship SaaS product. I architected the frontend infrastructure using React and Next.js, implemented CI/CD pipelines, and established coding standards and best practices. I worked closely with the design team to ensure pixel-perfect implementation of UI designs and collaborated with the backend team to define and consume APIs. During my tenure, we improved application performance by 40% and reduced build times by 60% through optimization techniques and code splitting.",
+      "As the Senior Frontend Developer at TechCorp Inc., I led a team of 5 developers in building and maintaining the companys flagship SaaS product. I architected the frontend infrastructure using React and Next.js, implemented CI/CD pipelines, and established coding standards and best practices. I worked closely with the design team to ensure pixel-perfect implementation of UI designs and collaborated with the backend team to define and consume APIs. During my tenure, we improved application performance by 40% and reduced build times by 60% through optimization techniques and code splitting.",
     startDate: "2021-06-01",
     endDate: null,
     location: "San Francisco, CA",
@@ -146,7 +146,7 @@ export const jobs: Job[] = [
     logo: "/images/logo6.jfif",
     description: "Developed websites and web applications for small to medium businesses.",
     longDescription:
-      "I started my professional career as a Junior Web Developer at Digital Edge Agency, where I built websites and web applications for small to medium-sized businesses. I worked with WordPress, PHP, and jQuery to create custom themes and plugins. I also gained experience with responsive design principles and cross-browser compatibility. During my time at Digital Edge, I developed over 20 client websites and contributed to the agency's internal project management tool. I participated in code reviews and gradually took on more responsibilities, eventually leading small projects for key clients.",
+      "I started my professional career as a Junior Web Developer at Digital Edge Agency, where I built websites and web applications for small to medium-sized businesses. I worked with WordPress, PHP, and jQuery to create custom themes and plugins. I also gained experience with responsive design principles and cross-browser compatibility. During my time at Digital Edge, I developed over 20 client websites and contributed to the agencys internal project management tool. I participated in code reviews and gradually took on more responsibilities, eventually leading small projects for key clients.",
     startDate: "2016-09-01",
     endDate: "2018-02-28",
     location: "Boston, MA",

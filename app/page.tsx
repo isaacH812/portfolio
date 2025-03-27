@@ -123,7 +123,7 @@ export default function Home() {
       {/* Contact section */}
       <section className="contact-section">
         <div className="container">
-          <h2>Let's Work Together</h2>
+          <h2>Let us Work Together</h2>
           <p>
             Reach out for some free tips on how to be as cool as me bruh
           </p>
