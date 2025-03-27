@@ -37,7 +37,7 @@ export default function Home() {
             <h2>Full Stack Developer</h2>
 
             <div className="profile-image-container">
-              <Image src="/images/profile.jfif" alt="w" fill className="profile-image" />
+              <Image src="/images/profile3.png" alt="w" fill className="profile-image" />
             </div>
 
             <p>I build beautiful, functional, and accessible web applications with modern technologies.</p>

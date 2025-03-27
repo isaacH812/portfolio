@@ -33,7 +33,7 @@ export const projects: Project[] = [
     description: "A full-featured e-commerce platform with payment processing and inventory management.",
     longDescription:
       "This comprehensive e-commerce solution provides businesses with everything they need to sell products online. The platform includes product management, inventory tracking, payment processing with Stripe, user authentication, order management, and analytics dashboards. Built with performance and scalability in mind, it can handle thousands of concurrent users and process hundreds of transactions per minute. The admin dashboard gives store owners complete control over their products, orders, and customer data.",
-    image: "/images/proj1.jfif",
+    image: "/images/new2.png",
     technologies: ["React", "Next.js", "Node.js", "MongoDB", "Stripe", "AWS S3"],
     startDate: "2022-03-01",
     endDate: "2022-08-15",
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     description: "Mobile application for tracking workouts, nutrition, and health metrics.",
     longDescription:
       "This health and fitness application helps users achieve their wellness goals by tracking workouts, nutrition, and key health metrics. Users can create custom workout routines, log their exercises, and monitor their progress over time. The nutrition tracker allows for meal planning and calorie counting, while the health dashboard visualizes trends in weight, body measurements, and other metrics. The app also includes social features that allow users to connect with friends, share achievements, and participate in challenges.",
-      image: "/images/proj2.jfif",
+      image: "/images/new4.png",
     technologies: ["React Native", "Firebase", "Redux", "Node.js", "Express", "MongoDB"],
     startDate: "2021-09-10",
     endDate: "2022-02-28",
@@ -61,7 +61,7 @@ export const projects: Project[] = [
     description: "Property listing and management system with virtual tours and analytics.",
     longDescription:
       "This real estate platform revolutionizes how properties are listed, viewed, and managed. It features high-quality property listings with detailed information, photo galleries, and virtual 3D tours. Agents can manage their listings, track inquiries, and analyze performance metrics through a comprehensive dashboard. Buyers can search for properties using advanced filters, save favorites, schedule viewings, and receive notifications about new listings that match their criteria. The platform also includes mortgage calculators and neighborhood information to help buyers make informed decisions.",
-      image: "/images/proj3.jfif",
+      image: "/images/new5.png",
     technologies: ["React", "Next.js", "PostgreSQL", "GraphQL", "AWS", "Mapbox"],
     startDate: "2021-04-15",
     endDate: "2021-08-30",
@@ -75,7 +75,7 @@ export const projects: Project[] = [
     description: "Collaborative project management application with task tracking and team communication.",
     longDescription:
       "This project management tool helps teams collaborate effectively and deliver projects on time. It features task management with customizable workflows, time tracking, file sharing, and team communication tools. The interactive Gantt charts and Kanban boards provide visual representations of project timelines and task status. Teams can set milestones, track progress, and generate reports for stakeholders. The tool integrates with popular services like GitHub, Slack, and Google Drive to streamline workflows and centralize information.",
-      image: "/images/proj4.jfif",
+      image: "/images/new6.png",
     technologies: ["Vue.js", "Vuex", "Node.js", "Socket.io", "PostgreSQL", "Docker"],
     startDate: "2020-11-01",
     endDate: "2021-03-20",
@@ -143,7 +143,7 @@ export const jobs: Job[] = [
     name: "Junior Web Developer",
     slug: "junior-web-developer-digitaledge",
     company: "Digital Edge Agency",
-    logo: "/images/logo6.jfif",
+    logo: "/images/new7.png",
     description: "Developed websites and web applications for small to medium businesses.",
     longDescription:
       "I started my professional career as a Junior Web Developer at Digital Edge Agency, where I built websites and web applications for small to medium-sized businesses. I worked with WordPress, PHP, and jQuery to create custom themes and plugins. I also gained experience with responsive design principles and cross-browser compatibility. During my time at Digital Edge, I developed over 20 client websites and contributed to the agencys internal project management tool. I participated in code reviews and gradually took on more responsibilities, eventually leading small projects for key clients.",
@@ -156,7 +156,7 @@ export const jobs: Job[] = [
     name: "Web Design Intern",
     slug: "web-design-intern-creative",
     company: "Creative Studios",
-    logo: "/images/logo3.jfif",
+    logo: "/images/new8.png",
     description: "Assisted in designing and developing websites for various clients.",
     longDescription:
       "As a Web Design Intern at Creative Studios, I assisted senior designers and developers in creating websites for clients in the arts and entertainment industry. I learned the fundamentals of HTML, CSS, and JavaScript while contributing to real-world projects. I created wireframes and mockups using Photoshop and Illustrator, and implemented them under supervision. This internship provided me with valuable experience in the web development workflow, client communication, and working in a creative team environment. I also had the opportunity to design and develop a microsite for a local music festival, which was well-received by the client and attendees.",
