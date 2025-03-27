@@ -1,0 +1,114 @@
+.navbar {
+  background-color: white;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.navbar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
+}
+
+.navbar-logo {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: #111827;
+}
+
+.navbar-desktop {
+  display: none;
+}
+
+.navbar-link {
+  color: #4b5563;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.navbar-link:hover {
+  color: #111827;
+}
+
+.navbar-button {
+  background-color: #111827;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.navbar-button:hover {
+  background-color: #1f2937;
+}
+
+.navbar-menu-button {
+  display: block;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.navbar-mobile {
+  display: block;
+}
+
+.navbar-mobile-links {
+  padding: 0.5rem 0.75rem 0.75rem;
+}
+
+.navbar-mobile-link {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  color: #4b5563;
+  text-decoration: none;
+}
+
+.navbar-mobile-link:hover {
+  color: #111827;
+  background-color: #f9fafb;
+}
+
+.navbar-mobile-button {
+  display: block;
+  margin-top: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  background-color: #111827;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-mobile-button:hover {
+  background-color: #1f2937;
+}
+
+@media (min-width: 768px) {
+  .navbar-desktop {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .navbar-menu-button {
+    display: none;
+  }
+
+  .navbar-mobile {
+    display: none;
+  }
+}
+
