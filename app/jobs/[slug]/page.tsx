@@ -5,8 +5,8 @@ import { getJobBySlug } from "@/lib/data"
 import { ArrowLeft, Calendar, MapPin } from "lucide-react"
 import "../job-detail.css"
 
-export default function JobPage({ params }: { params: { slug: string } }) {
-  const job = getJobBySlug(params.slug)
+export default async function JobPage({ params }: { params: { slug: string } }) {
+  const job = await getJobBySlug(params.slug)
 
   if (!job) {
     notFound()
