@@ -57,7 +57,7 @@ export default function Footer() {
             <h4 className="footer-nav-title">Contact</h4>
             <ul className="footer-contact-list">
               <li>A02376833@aggies.usu.edu</li>
-              <li>Yo mama's house</li>
+              <li>Yo mamas house</li>
             </ul>
           </div>
         </div>

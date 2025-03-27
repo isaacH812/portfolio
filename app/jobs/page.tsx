@@ -9,7 +9,7 @@ export default function JobsPage() {
     <div className="jobs-page">
       <div className="jobs-header">
         <h1>Work Experience</h1>
-        <p>My professional journey and the companies I've had the pleasure to work with.</p>
+        <p>My professional journey and the companies I have had the pleasure to work with.</p>
       </div>
 
       <div className="jobs-list">

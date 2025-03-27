@@ -58,7 +58,7 @@ export default function Home() {
             <div className="about-text">
               <h3>My Journey</h3>
               <p>
-                Im a passionate college student who has been grinding the software life. I know I'm great and I hand coded a version control software called Git.
+                Im a passionate college student who has been grinding the software life. I know Im great and I hand coded a version control software called Git.
               </p>
               <p>
                 I specialize in React, Next.js, Node.js, and modern frontend technologies. My background in design
